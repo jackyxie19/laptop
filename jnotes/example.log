@@ -1,0 +1,3 @@
+INFO main log4jtest.MyApp - Entering application.
+DEBUG main log4jtest.Bar - Did it again!
+INFO main log4jtest.MyApp - Exiting application.

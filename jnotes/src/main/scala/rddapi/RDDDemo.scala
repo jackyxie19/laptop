@@ -515,10 +515,10 @@ object RDDDemo {
     c.sortByKey(false).collect
 //    res75: Array[(String, Int)] = Array((owl,3), (gnu,4), (dog,1), (cat,2), (ant,5))
 
-    val a = sc.parallelize(1 to 100, 5)
-    val b = a.cartesian(a)
-    val c = sc.parallelize(b.takeSample(true, 5, 13), 2)
-    val d = c.sortByKey(false)
+    val a1 = sc.parallelize(1 to 100, 5)
+    val b1 = a1.cartesian(a1)
+    val c1 = sc.parallelize(b1.takeSample(true, 5, 13), 2)
+    val d1 = c1.sortByKey(false)
 //    res56: Array[(Int, Int)] = Array((96,9), (84,76), (59,59), (53,65), (52,4))
   }
 
