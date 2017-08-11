@@ -1,0 +1,63 @@
+@startuml
+'skinparam class {
+'BackgroundColor PaleGreen
+'ArrowColor SeaGreen
+'BorderColor SpringGreen
+'BackgroundColor  Wheat
+'BorderColor Tomato
+'}
+'skinparam stereotypeCBackgroundColor YellowGreen
+'skinparam stereotypeCBackgroundColor  DimGray
+
+
+
+'DEFINITION
+interface ODPSService{
+    +{abstract} int executeDB2ConfFile()
+    +{abstract} int executeODPS2HDFS()
+}
+class ODPSServiceImpl{
+    + Boolean jedisClusterSetBySql()
+}
+class RedisPoolTool{
+    + void jedisClusterSetPipeline()
+}
+class ReadDataBySql{
+    ''FIELDS
+
+    ''METHODS
+    + HashMap getDataBySql()
+    + HashMap getDB2SqlDataString()
+}
+class DB2Utils{
+    + Connection getConn()
+    + void rollBack()
+    + void closeAll()
+}
+
+
+class JedisClusterPipeline<<Closeable>>{
+    ''FIELDS
+    - JedisSlotBasedConnectionHandler connHandler
+    - JedisClusterInfoCache clusterInfoCache
+
+    ''METHODS
+    +{static} JedisClusterPipeline  pipelined(JedisCluster jedis)
+    +void setJedisCluster(JedisCluster jedis)
+    +void refrehCluster()
+    +sync()
+}
+abstract class PipelineBase{
+    set()
+    expire()
+    lpush()
+    hmset()
+}
+'RELATIONSHIP
+ODPSService <|.. ODPSServiceImpl : is a <
+ODPSServiceImpl ..> RedisPoolTool : depends on >
+ODPSServiceImpl ..> ReadDataBySql : depends on >
+ReadDataBySql .> DB2Utils : depends on >
+JedisClusterPipeline <. RedisPoolTool :depends on <
+PipelineBase <|-- JedisClusterPipeline : is a <
+@enduml

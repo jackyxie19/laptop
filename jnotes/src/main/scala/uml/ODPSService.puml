@@ -1,0 +1,36 @@
+@startuml
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|.. AbstractList:implements
+Collection <|.. AbstractCollection:implements
+
+Collection <|. List:implements
+AbstractCollection <|- AbstractList:extends
+AbstractList <|-- ArrayList:is a <
+
+package foo6 <<database>>#red{
+    class Class1
+}
+class ArrayList {
++ Object[] elementData
+- size()
+}
+note left: On last defined class
+note top of Object
+In java, <size:18>every </size> <u>class </u>
+<b>extends </b>
+<i>this </i> one.
+end note
+
+
+enum TimeUnit {
+DAYS
+HOURS
+MINUTES
+}
+
+@enduml

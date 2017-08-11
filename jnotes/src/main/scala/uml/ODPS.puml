@@ -1,0 +1,42 @@
+@startuml
+autonumber
+actor Alice
+database Bob #red
+participant Alice2
+participant "I have a really\nlong name" as L #99FF99
+Bob->L: Log transaction
+Alice ->X Bob: Authentication Request
+Bob -->O Alice: Authentication Response
+Alice -[#red]/ "Bob()" : Hello
+Alice -[#blue]\ Bob: Another authentication Request
+Alice <<[#00300F]-- Bob: another authentication Response
+activate Alice
+Alice ->Alice:main
+Alice ->>User
+deactivate Alice
+participant User
+User -> A: DoWork
+activate A #DarkSalmon
+A-\A
+activate A
+A -> B: << createRequest >>
+activate B
+B -> C: DoWork
+activate C
+C --> B: WorkDone
+destroy C
+B --> A: RequestCreated
+deactivate B
+A -> User: Done
+deactivate A
+
+[-> E: DoWork
+activate E
+E -> E: Internal call
+activate E
+E ->] : << createRequest >>
+E<--] : RequestCreated
+deactivate E
+[<- E: Done
+deactivate E
+@enduml

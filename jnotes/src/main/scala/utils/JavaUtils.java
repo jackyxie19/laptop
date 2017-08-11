@@ -4,6 +4,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 /**
  * Created by jacky on 2017/7/21.
@@ -24,5 +25,9 @@ public class JavaUtils {
 
     public static String listToString5(List list, char separator) {
         return org.apache.commons.lang3.StringUtils.join(list.toArray(), separator);
+    }
+
+    public static String setToString5(Set set, char separator) {
+        return org.apache.commons.lang3.StringUtils.join(set.toArray(), separator);
     }
 }
