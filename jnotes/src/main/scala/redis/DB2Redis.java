@@ -58,7 +58,7 @@ public class DB2Redis {
             SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
             String time = sdf.format(new Date());
 
-            JedisClusterClient jcc = new JedisClusterClient();
+            JedisClusterClient jcc = JedisClusterClient.getJedisCluster();
             JedisCluster jedis = jcc.getJedisConn();
 
             JedisClusterPipeline jcp = JedisClusterPipeline.pipelined(jedis);

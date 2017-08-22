@@ -2,71 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf5d22a4-2fc1-49a8-9bdc-09ce3881bd58" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__biz_paluch_redis_lettuce_4_2_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_7_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_stream_2_0_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_openhft_zero_allocation_hashing_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_yarn_2_11_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_3_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/redis/JedisClusterPipeline.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/redis/lettuce/ConnectToRedisCluster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/redis/redisson/TestRedisson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/uml/ODPS.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/uml/ODPSRedis.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/uml/ODPSService.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/CodecUtilsJ.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/MyJSONUtils.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/String1Utils.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/JavaBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/LoopContinue.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kafka/Json/JsonGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kafka/ProducerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/sparkstreaming/Demo.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/FilterUtils.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/InitUtils.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/OffsetUtils.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/RedisKeyUtils.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/ZKUtils.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/ConfigTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/JavaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/JedisClusterPipelineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/JsonGen.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/ScalaTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TestJedisClusterClient.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/utils/MyJSONUtils.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/utils/RedisUtils.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/utils/RedisUtils$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/utils/RedisUtils.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/One$.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/One$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/One.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/One.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/PublicVariable$class.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/PublicVariable$class.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/PublicVariable.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/PublicVariable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/SomeTest$.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/SomeTest$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/SomeTest.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/SomeTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/TraitImplementsTest$.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/TraitImplementsTest$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jnotes/TraitImplementsTest.class" afterPath="$PROJECT_DIR$/target/classes/jnotes/TraitImplementsTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/kafka/ConsumerDemo.class" afterPath="$PROJECT_DIR$/target/classes/kafka/ConsumerDemo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j2test/Log4j2$$anonfun$demo3$1.class" afterPath="$PROJECT_DIR$/target/classes/log4j2test/Log4j2$$anonfun$demo3$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j2test/Log4j2$.class" afterPath="$PROJECT_DIR$/target/classes/log4j2test/Log4j2$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j2test/Log4j2.class" afterPath="$PROJECT_DIR$/target/classes/log4j2test/Log4j2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/Bar.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/Bar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/Class1.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/Class1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/Class11$.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/Class11$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/Class2.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/Class2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/Class3.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/Class3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/LogLevel.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/LogLevel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/MyApp.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/MyApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4jtest/Class11.class" afterPath="$PROJECT_DIR$/target/classes/log4jtest/Class11.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$$anonfun$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$$anonfun$10.class" afterPath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$$anonfun$10.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$$anonfun$11.class" afterPath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$$anonfun$11.class" />
@@ -138,9 +108,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$MyPartitioner$1.class" afterPath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo$MyPartitioner$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo.class" afterPath="$PROJECT_DIR$/target/classes/rddapi/RDDDemo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/DateUtils$.class" afterPath="$PROJECT_DIR$/target/classes/utils/DateUtils$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/DateUtils.class" afterPath="$PROJECT_DIR$/target/classes/utils/DateUtils.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/JavaUtils.class" afterPath="$PROJECT_DIR$/target/classes/utils/JavaUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/RedisUtils$.class" afterPath="$PROJECT_DIR$/target/classes/utils/RedisUtils$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/RedisUtils.class" afterPath="$PROJECT_DIR$/target/classes/utils/RedisUtils.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$main$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$main$1$$anonfun$apply$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$main$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$persistOffsets$1.class" afterPath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$persistOffsets$1.class" />
@@ -148,20 +117,35 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$readOffsets$1.class" afterPath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$$anonfun$readOffsets$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$.class" afterPath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset.class" afterPath="$PROJECT_DIR$/target/classes/zk/KafkaZooOffset.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jnotes.iml" afterPath="$PROJECT_DIR$/jnotes.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.java" afterPath="$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java" afterPath="$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java" afterPath="$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/redis/lettuce/ConnectToRedisCluster.java" afterPath="$PROJECT_DIR$/src/main/scala/redis/lettuce/ConnectToRedisCluster.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala" afterPath="$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/utils/JavaUtils.java" afterPath="$PROJECT_DIR$/src/main/scala/utils/JavaUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/utils/RedisUtils.scala" afterPath="$PROJECT_DIR$/src/main/scala/utils/RedisUtils.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_9.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_9.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__biz_paluch_redis_lettuce_4_2_2_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__biz_paluch_redis_lettuce_3_5_0_Final.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_7_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_6.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_yarn_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_yarn_2_11_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_0_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_11.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_8.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -174,24 +158,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="ProducerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/ProducerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="260">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestRedisson.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/redis/redisson/TestRedisson.java">
+      <file leaf-file-name="KafkaZooOffset.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/zk/KafkaZooOffset.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            <state relative-caret-position="-286">
+              <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitUtils.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/utils/InitUtils.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="44" column="1" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="44" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigTest.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/ConfigTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OffsetUtils.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/utils/OffsetUtils.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2717">
+              <caret line="150" column="25" lean-forward="false" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#15#65#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/sparkstreaming/Demo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="e#24#74#0" expanded="true" />
+                <element signature="e#1243#1314#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/application.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -221,6 +278,10 @@
       <find>treeAggregate</find>
       <find>junit</find>
       <find>zip</find>
+      <find>Filter</find>
+      <find>kafka</find>
+      <find>registerModule</find>
+      <find>fasterxml</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -239,26 +300,47 @@
         <option value="$PROJECT_DIR$/src/main/scala/zk/scriptFile.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/zk/KafkaZooOffset.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.java" />
         <option value="$PROJECT_DIR$/src/main/scala/rddapi/RDDDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/JSONUtils.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/RedisUtils.scala" />
         <option value="$MAVEN_REPOSITORY$/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar!/net/sf/json/JSONObject.class" />
-        <option value="$PROJECT_DIR$/src/main/scala/utils/JavaUtils.java" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/MyJSONUtils.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/String1Utils.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/utils/CodecUtilsJ.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/redis/JedisClusterPipeline.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java" />
         <option value="$PROJECT_DIR$/src/main/scala/uml/ODPSService.puml" />
         <option value="$PROJECT_DIR$/src/main/scala/uml/ODPS.puml" />
         <option value="$PROJECT_DIR$/src/main/scala/uml/ODPSRedis.puml" />
         <option value="$PROJECT_DIR$/src/test/LoopContinue.java" />
         <option value="$PROJECT_DIR$/src/test/JavaBase.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/redis/lettuce/ConnectToRedisCluster.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/redis/redisson/TestRedisson.java" />
+        <option value="$PROJECT_DIR$/src/test/JedisClusterPipelineTest.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparkstreaming/TellerDoOwnBusiness.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java" />
+        <option value="$PROJECT_DIR$/src/test/JsonGen.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/kafka/Json/TestBean.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/kafka/Json/JsonGen.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/kafka/Json/JsonGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/kafka/ProducerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/ScalaTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/JavaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/RedisKeyUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/JavaUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/ZKUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/InitUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/redis/lettuce/ConnectToRedisCluster.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/OffsetUtils.scala" />
+        <option value="$PROJECT_DIR$/src/test/JedisClusterClient.java" />
+        <option value="$PROJECT_DIR$/src/test/TestJedisClusterClient.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparkstreaming/Demo.scala" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.pom" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/config/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/config/application.conf" />
+        <option value="$PROJECT_DIR$/src/test/ConfigTest.scala" />
       </list>
     </option>
   </component>
@@ -276,9 +358,47 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
-    <option name="y" value="30" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jnotes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jnotes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jnotes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jnotes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jnotes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.spark:spark-core_2.11:2.0.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jnotes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.specs:specs:1.2.5" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1" />
+    <option name="y" value="2" />
     <option name="width" value="1364" />
     <option name="height" value="719" />
   </component>
@@ -290,7 +410,28 @@
             <id />
           </State>
           <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
             <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
           </State>
           <State>
             <id>Code style issuesJava</id>
@@ -299,13 +440,109 @@
             <id>CollectionsScala</id>
           </State>
           <State>
+            <id>ComparingCollectionsScala</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
             <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method MetricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
           </State>
           <State>
             <id>Naming conventionsJava</id>
           </State>
           <State>
-            <id>OtherCollectionsScala</id>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
           </State>
           <State>
             <id>Performance issuesJava</id>
@@ -314,18 +551,69 @@
             <id>Plugin DevKit</id>
           </State>
           <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
             <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
           </State>
           <State>
             <id>Scala</id>
           </State>
           <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Simplifications: otherCollectionsScala</id>
+          </State>
+          <State>
+            <id>SizeCollectionsScala</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Syntactic ClarificationScala</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
             <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Java</id>
+            <id>Ant inspections</id>
           </State>
         </selected-state>
       </profile-state>
@@ -365,6 +653,12 @@
               <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="jnotes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jnotes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -380,91 +674,67 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jnotes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jnotes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="zk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jnotes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: biz.paluch.redis:lettuce:4.2.2.Final" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: biz.paluch.redis:lettuce:4.2.2.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="lettuce-4.2.2.Final.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: biz.paluch.redis:lettuce:4.2.2.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="lettuce-4.2.2.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdaworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: biz.paluch.redis:lettuce:4.2.2.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="lettuce-4.2.2.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdaworks" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: biz.paluch.redis:lettuce:4.2.2.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="lettuce-4.2.2.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdaworks" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.spark:spark-yarn_2.11:2.0.1" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.spark:spark-yarn_2.11:2.0.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="spark-yarn_2.11-2.0.1.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.spark:spark-yarn_2.11:2.0.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="spark-yarn_2.11-2.0.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="AMRMC&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0-sources.jar!/org/apache/hadoop/yarn/client/api/AMRMClient.java&#10;AllocateResources&#9;null&#9;null&#10;Client&#9;null&#9;null&#10;SparkContext&#9;null&#9;null&#10;LogManager&#9;PSI&#9;JAVA://org.apache.logging.log4j.LogManager&#10;Level&#9;PSI&#9;JAVA://org.apache.log4j.Level&#10;Logger&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java&#10;RDD&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/rdd/RDD.scala&#10;JedisCl&#9;PSI&#9;JAVA://redis.clients.jedis.JedisCluster" />
+    <property name="project.structure.side.proportion" value="0.38850576" />
+    <property name="SearchEverywhereHistoryKey" value="JacksonModule&#9;FILE&#9;file://F:/ExternalJar/apache-maven-3.3.9/repo/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.7.9/jackson-module-jaxb-annotations-2.7.9.pom&#10;TimeUnit&#9;PSI&#9;JAVA://com.lambdaworks.redis.ConnectionBuilder#timeUnit&#10;RedisA&#9;PSI&#9;JAVA://com.lambdaworks.redis.cluster.RedisAdvancedClusterAsyncConnectionImpl&#10;RedisAdvan&#9;PSI&#9;JAVA://com.lambdaworks.redis.cluster.RedisAdvancedClusterAsyncConnection&#10;SettableFuture&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/com/google/guava/guava/17.0/guava-17.0-sources.jar!/com/google/common/util/concurrent/SettableFuture.java&#10;RedisF&#9;PSI&#9;JAVA://com.lambdaworks.redis.RedisFuture&#10;AMRMC&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0-sources.jar!/org/apache/hadoop/yarn/client/api/AMRMClient.java&#10;AllocateResources&#9;null&#9;null&#10;Client&#9;null&#9;null&#10;SparkContext&#9;null&#9;null&#10;LogManager&#9;PSI&#9;JAVA://org.apache.logging.log4j.LogManager&#10;Level&#9;PSI&#9;JAVA://org.apache.log4j.Level&#10;Logger&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java&#10;RDD&#9;FILE&#9;jar://F:/ExternalJar/apache-maven-3.3.9/repo/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/rdd/RDD.scala&#10;JedisCl&#9;PSI&#9;JAVA://redis.clients.jedis.JedisCluster" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\gitProject\laptop\jnotes\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="redis" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\gitProject\laptop\jnotes\src\config" />
+      <recent name="F:\gitProject\laptop\jnotes\src\main\scala\sparkstreaming" />
+      <recent name="F:\gitProject\laptop\jnotes\src\main\scala\utils" />
       <recent name="F:\gitProject\laptop\jnotes\src\main\scala\zk" />
     </key>
   </component>
@@ -480,15 +750,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JavaBase.mode">
-    <configuration name="JavaBase.mode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConfigTest.testMark">
+    <configuration name="ConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="jnotes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JavaBase" />
-      <option name="METHOD_NAME" value="mode" />
+      <option name="MAIN_CLASS_NAME" value="ConfigTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ConfigTest.testLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="jnotes" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConfigTest" />
+      <option name="METHOD_NAME" value="testLoad" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -501,14 +791,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="LoopContinue.testMapSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConfigTest.testMark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="jnotes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoopContinue" />
-      <option name="METHOD_NAME" value="testMapSize" />
+      <option name="MAIN_CLASS_NAME" value="ConfigTest" />
+      <option name="METHOD_NAME" value="testMark" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -521,14 +811,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MyJSONUtils" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="sparkstreaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="utils.MyJSONUtils" />
+      <option name="MAIN_CLASS_NAME" value="sparkstreaming.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -540,33 +830,14 @@
       <module name="jnotes" />
       <envs />
     </configuration>
-    <configuration name="RedisUtils" type="Application" factoryName="Application" temporary="true">
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="utils.RedisUtils" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="jnotes" />
-      <envs />
-    </configuration>
-    <configuration name="String1Utils" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="utils.String1Utils" />
+      <option name="MAIN_CLASS_NAME" value="kafka.ProducerDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -779,19 +1050,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RedisUtils" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MyJSONUtils" />
-      <item index="2" class="java.lang.String" itemvalue="Application.String1Utils" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LoopContinue.testMapSize" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.JavaBase.mode" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ConfigTest.testLoad" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ConfigTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ProducerDemo" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ConfigTest.testMark" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.JavaBase.mode" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LoopContinue.testMapSize" />
-        <item index="2" class="java.lang.String" itemvalue="Application.String1Utils" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MyJSONUtils" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RedisUtils" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ConfigTest.testMark" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ProducerDemo" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ConfigTest.testLoad" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ConfigTest" />
       </list>
     </recent_temporary>
   </component>
@@ -814,39 +1085,66 @@
       <option name="presentableId" value="Default" />
       <updated>1499821736827</updated>
     </task>
+    <task id="LOCAL-00001" summary="new test">
+      <created>1502446146443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502446146443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JavaBase_mode - 2017.08.08 at 19h 04m 18s.xml">
-      <configuration name="JavaBase.mode" configurationId="JUnit" />
+    <history-entry file="ConfigTest_testLoad - 2017.08.21 at 14h 49m 57s.xml">
+      <configuration name="ConfigTest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoopContinue_testMapSize - 2017.08.08 at 17h 09m 39s.xml">
-      <configuration name="LoopContinue.testMapSize" configurationId="JUnit" />
+    <history-entry file="ConfigTest_testMark - 2017.08.22 at 10h 21m 54s.xml">
+      <configuration name="ConfigTest.testMark" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoopContinue_testMapSize - 2017.08.08 at 17h 10m 22s.xml">
-      <configuration name="LoopContinue.testMapSize" configurationId="JUnit" />
+    <history-entry file="ConfigTest_testMark - 2017.08.22 at 10h 22m 18s.xml">
+      <configuration name="ConfigTest.testMark" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoopContinue_testMapSize - 2017.08.08 at 17h 10m 57s.xml">
-      <configuration name="LoopContinue.testMapSize" configurationId="JUnit" />
+    <history-entry file="ScalaTest_testSplit - 2017.08.17 at 18h 42m 12s.xml">
+      <configuration name="ScalaTest.testSplit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScalaTest_testSplit - 2017.08.17 at 18h 42m 57s.xml">
+      <configuration name="ScalaTest.testSplit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScalaTest_testSplit - 2017.08.17 at 18h 44m 39s.xml">
+      <configuration name="ScalaTest.testSplit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJedisClusterClient_test - 2017.08.21 at 11h 03m 24s.xml">
+      <configuration name="TestJedisClusterClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJedisClusterClient_test - 2017.08.21 at 11h 03m 40s.xml">
+      <configuration name="TestJedisClusterClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJedisClusterClient_test - 2017.08.21 at 11h 06m 07s.xml">
+      <configuration name="TestJedisClusterClient.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJedisClusterClient_test - 2017.08.21 at 11h 09m 38s.xml">
+      <configuration name="TestJedisClusterClient.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="30" width="1364" height="719" extended-state="0" />
+    <frame x="-1" y="2" width="1364" height="719" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51059" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33214286" sideWeight="0.47579426" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3375" sideWeight="0.47579426" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25811967" sideWeight="0.18986385" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5513804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.81013614" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34464285" sideWeight="0.81013614" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.273773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34969324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24054463" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22009203" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -858,12 +1156,39 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51059" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3375" sideWeight="0.47579426" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25811967" sideWeight="0.18986385" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32361963" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34285715" sideWeight="0.81013614" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41947854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22009203" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="new test" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,7 +1200,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -884,530 +1209,369 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/resources/log4j2.xml">
+    <entry file="jar://D:/Java/jdk1.8/src.zip!/java/util/concurrent/TimeUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="1919">
+          <caret line="134" column="4" lean-forward="false" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/log4j2test/Log4j2.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/MyJSONUtils.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/FilterUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#55#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/utils/DateUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/JavaUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="29" column="64" lean-forward="false" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/RedisUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/convert/Wrappers.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="97" column="34" lean-forward="false" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/convert/WrapAsJava.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/String1Utils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="e#15#31#0" expanded="false" />
-            <element signature="e#371#412#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/CodecUtilsJ.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/SparkContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
-          <caret line="2447" column="0" lean-forward="false" selection-start-line="2447" selection-start-column="0" selection-end-line="2448" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0-sources.jar!/org/apache/hadoop/yarn/api/records/ContainerLaunchContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-yarn_2.11/2.0.1/spark-yarn_2.11-2.0.1-sources.jar!/org/apache/spark/deploy/yarn/Client.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0-sources.jar!/org/apache/hadoop/yarn/client/api/YarnClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="93" column="32" lean-forward="false" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0-sources.jar!/org/apache/hadoop/yarn/api/protocolrecords/impl/pb/SubmitApplicationResponsePBImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0-sources.jar!/org/apache/hadoop/yarn/api/impl/pb/client/ApplicationClientProtocolPBClientImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="175" column="35" lean-forward="false" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0-sources.jar!/org/apache/hadoop/yarn/api/ApplicationClientProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="123" column="35" lean-forward="false" selection-start-line="123" selection-start-column="35" selection-end-line="123" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0-sources.jar!/org/apache/hadoop/yarn/client/api/impl/YarnClientImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="149" column="19" lean-forward="false" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/deploy/SparkHadoopUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6992">
-          <caret line="408" column="7" lean-forward="false" selection-start-line="408" selection-start-column="7" selection-end-line="408" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0-sources.jar!/org/apache/hadoop/yarn/client/api/AMRMClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3268">
-          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0-sources.jar!/org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-yarn_2.11/2.0.1/spark-yarn_2.11-2.0.1-sources.jar!/org/apache/spark/deploy/yarn/YarnRMClient.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-yarn_2.11/2.0.1/spark-yarn_2.11-2.0.1-sources.jar!/org/apache/spark/deploy/yarn/ApplicationMaster.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="352" column="10" lean-forward="false" selection-start-line="352" selection-start-column="10" selection-end-line="352" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/config/ConfigBuilder.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2926">
-          <caret line="171" column="6" lean-forward="false" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-yarn_2.11/2.0.1/spark-yarn_2.11-2.0.1-sources.jar!/org/apache/spark/deploy/yarn/YarnAllocator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="498" column="0" lean-forward="false" selection-start-line="498" selection-start-column="0" selection-end-line="498" selection-end-column="0" />
-          <folding>
-            <element signature="e#3567#3662#0" expanded="false" />
-            <element signature="e#3852#3912#0" expanded="false" />
-            <element signature="e#5032#5122#0" expanded="false" />
-            <element signature="e#5327#5419#0" expanded="false" />
-            <element signature="e#5591#5679#0" expanded="false" />
-            <element signature="e#6123#6208#0" expanded="false" />
-            <element signature="e#6796#6885#0" expanded="false" />
-            <element signature="e#7018#7440#0" expanded="false" />
-            <element signature="e#7048#7227#0" expanded="false" />
-            <element signature="e#7089#7226#0" expanded="false" />
-            <element signature="e#7289#7430#0" expanded="false" />
-            <element signature="e#7299#7417#0" expanded="false" />
-            <element signature="e#7915#8003#0" expanded="false" />
-            <element signature="e#7915#8070#0" expanded="false" />
-            <element signature="e#8131#8487#0" expanded="false" />
-            <element signature="e#8177#8487#0" expanded="false" />
-            <element signature="e#8491#8580#0" expanded="false" />
-            <element signature="e#8665#8781#0" expanded="false" />
-            <element signature="e#8665#8986#0" expanded="false" />
-            <element signature="e#8990#9613#0" expanded="false" />
-            <element signature="e#8990#10120#0" expanded="false" />
-            <element signature="e#9794#10120#0" expanded="false" />
-            <element signature="e#9949#10091#0" expanded="false" />
-            <element signature="e#10097#10116#0" expanded="false" />
-            <element signature="e#10124#10225#0" expanded="false" />
-            <element signature="e#10124#10570#0" expanded="false" />
-            <element signature="e#10286#10570#0" expanded="false" />
-            <element signature="e#10340#10484#0" expanded="false" />
-            <element signature="e#10490#10566#0" expanded="false" />
-            <element signature="e#12499#15466#0" expanded="false" />
-            <element signature="e#12514#12693#0" expanded="false" />
-            <element signature="e#12701#12790#0" expanded="false" />
-            <element signature="e#13282#13331#0" expanded="false" />
-            <element signature="e#13434#13499#0" expanded="false" />
-            <element signature="e#14069#14200#0" expanded="false" />
-            <element signature="e#14319#14507#0" expanded="false" />
-            <element signature="e#14568#14845#0" expanded="false" />
-            <element signature="e#14743#14837#0" expanded="false" />
-            <element signature="e#14851#15258#0" expanded="false" />
-            <element signature="e#15075#15150#0" expanded="false" />
-            <element signature="e#15294#15459#0" expanded="false" />
-            <element signature="e#15489#16064#0" expanded="false" />
-            <element signature="e#15567#15702#0" expanded="false" />
-            <element signature="e#15840#15970#0" expanded="false" />
-            <element signature="e#15976#16058#0" expanded="false" />
-            <element signature="e#16072#16256#0" expanded="false" />
-            <element signature="e#16135#16252#0" expanded="false" />
-            <element signature="e#16260#16398#0" expanded="false" />
-            <element signature="e#16260#16805#0" expanded="false" />
-            <element signature="e#16570#16724#0" expanded="false" />
-            <element signature="e#16616#16718#0" expanded="false" />
-            <element signature="e#17428#17575#0" expanded="false" />
-            <element signature="e#17459#17569#0" expanded="false" />
-            <element signature="e#17729#17945#0" expanded="false" />
-            <element signature="e#17861#17939#0" expanded="false" />
-            <element signature="e#18138#18260#0" expanded="false" />
-            <element signature="e#18169#18254#0" expanded="false" />
-            <element signature="e#18309#18550#0" expanded="false" />
-            <element signature="e#18325#18436#0" expanded="false" />
-            <element signature="e#18491#18544#0" expanded="false" />
-            <element signature="e#18608#18742#0" expanded="false" />
-            <element signature="e#18750#19254#0" expanded="false" />
-            <element signature="e#18750#20317#0" expanded="false" />
-            <element signature="e#19457#19550#0" expanded="false" />
-            <element signature="e#19810#19888#0" expanded="false" />
-            <element signature="e#19944#20010#0" expanded="false" />
-            <element signature="e#20088#20262#0" expanded="false" />
-            <element signature="e#20268#20313#0" expanded="false" />
-            <element signature="e#22800#27622#0" expanded="false" />
-            <element signature="e#22976#27618#0" expanded="false" />
-            <element signature="e#23289#25716#0" expanded="false" />
-            <element signature="e#23299#23366#0" expanded="false" />
-            <element signature="e#23497#23689#0" expanded="false" />
-            <element signature="e#23560#23688#0" expanded="false" />
-            <element signature="e#23698#23765#0" expanded="false" />
-            <element signature="e#24045#25496#0" expanded="false" />
-            <element signature="e#24122#24287#0" expanded="false" />
-            <element signature="e#24348#24431#0" expanded="false" />
-            <element signature="e#24827#24948#0" expanded="false" />
-            <element signature="e#24860#24947#0" expanded="false" />
-            <element signature="e#25003#25124#0" expanded="false" />
-            <element signature="e#25036#25123#0" expanded="false" />
-            <element signature="e#25213#25485#0" expanded="false" />
-            <element signature="e#25526#25579#0" expanded="false" />
-            <element signature="e#25585#25635#0" expanded="false" />
-            <element signature="e#25722#26033#0" expanded="false" />
-            <element signature="e#25732#25796#0" expanded="false" />
-            <element signature="e#25887#26025#0" expanded="false" />
-            <element signature="e#26142#26430#0" expanded="false" />
-            <element signature="e#26219#26282#0" expanded="false" />
-            <element signature="e#26288#26365#0" expanded="false" />
-            <element signature="e#26490#27612#0" expanded="false" />
-            <element signature="e#26549#27307#0" expanded="false" />
-            <element signature="e#26828#26911#0" expanded="false" />
-            <element signature="e#27338#27604#0" expanded="false" />
-            <element signature="e#27350#27429#0" expanded="false" />
-            <element signature="e#27626#27820#0" expanded="false" />
-            <element signature="e#27626#28573#0" expanded="false" />
-            <element signature="e#27941#28573#0" expanded="false" />
-            <element signature="e#27988#28101#0" expanded="false" />
-            <element signature="e#28154#28360#0" expanded="false" />
-            <element signature="e#28162#28253#0" expanded="false" />
-            <element signature="e#28366#28569#0" expanded="false" />
-            <element signature="e#28474#28563#0" expanded="false" />
-            <element signature="e#28577#28752#0" expanded="false" />
-            <element signature="e#28842#28952#0" expanded="false" />
-            <element signature="e#28912#28952#0" expanded="false" />
-            <element signature="e#28956#29560#0" expanded="false" />
-            <element signature="e#28956#30378#0" expanded="false" />
-            <element signature="e#30043#30300#0" expanded="false" />
-            <element signature="e#30106#30142#0" expanded="false" />
-            <element signature="e#30208#30247#0" expanded="false" />
-            <element signature="e#30253#30294#0" expanded="false" />
-            <element signature="e#30412#31064#1" expanded="false" />
-            <element signature="e#30725#31062#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0-sources.jar!/org/apache/hadoop/yarn/api/records/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/zk/KafkaZooOffset.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.0.1/config-1.0.1-sources.jar!/com/typesafe/config/ConfigParseOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-yarn_2.11/2.0.1/spark-yarn_2.11-2.0.1-sources.jar!/org/apache/spark/deploy/yarn/config.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="146" column="21" lean-forward="false" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/uml/ODPS.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/uml/ODPSService.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/PipelineBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/JedisClusterPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="201" column="25" lean-forward="false" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/LoopContinue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#195#196#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#276#277#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/uml/ODPSRedis.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="513">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/JavaBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="e#80#81#0" expanded="false" />
-            <element signature="e#121#122#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/cluster/RedisClusterClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/DB2Redis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="61" column="52" lean-forward="true" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/Json/TestBean.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/JsonGen.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/Json/JsonGen.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.0.1/config-1.0.1-sources.jar!/com/typesafe/config/impl/ConfigImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.0.1/config-1.0.1-sources.jar!/com/typesafe/config/ConfigFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="284" column="34" lean-forward="false" selection-start-line="284" selection-start-column="34" selection-end-line="284" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/JavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ScalaTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/JavaUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="149" column="17" lean-forward="true" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.0.1/kafka_2.11-0.10.0.1-sources.jar!/kafka/utils/ZkUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/SparkConf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/ZKUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
-          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/3.5.0.Final/lettuce-3.5.0.Final-sources.jar!/com/lambdaworks/redis/RedisURI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-705">
+          <caret line="746" column="30" lean-forward="false" selection-start-line="746" selection-start-column="30" selection-end-line="746" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/HostAndPort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.0.1/config-1.0.1-sources.jar!/com/typesafe/config/impl/SimpleConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="256" column="24" lean-forward="false" selection-start-line="256" selection-start-column="24" selection-end-line="256" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.0.1/config-1.0.1-sources.jar!/com/typesafe/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="497" column="17" lean-forward="false" selection-start-line="497" selection-start-column="17" selection-end-line="497" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/redis/lettuce/ConnectToRedisCluster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="90" column="9" lean-forward="false" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/ConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="75" lean-forward="false" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestJedisClusterClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/JedisClusterClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="37" column="60" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="60" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#647#648#0" expanded="false" />
+            <element signature="e#669#670#0" expanded="false" />
+            <element signature="e#801#802#0" expanded="false" />
+            <element signature="e#842#843#0" expanded="false" />
+            <element signature="e#1616#1629#0" expanded="false" />
+            <element signature="e#2719#2720#0" expanded="false" />
+            <element signature="e#2751#2752#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/BaseRedisAsyncConnection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/RedisKeyUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="197" column="9" lean-forward="false" selection-start-line="197" selection-start-column="9" selection-end-line="197" selection-end-column="9" />
+        <state relative-caret-position="192">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/AbstractRedisAsyncCommands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3078">
-          <caret line="1841" column="24" lean-forward="false" selection-start-line="1841" selection-start-column="24" selection-end-line="1841" selection-end-column="24" />
-          <folding>
-            <element signature="e#59129#59130#0" expanded="false" />
-            <element signature="e#59171#59172#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/cluster/ClusterDistributionChannelWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="189" column="43" lean-forward="false" selection-start-line="189" selection-start-column="43" selection-end-line="189" selection-end-column="43" />
-          <folding>
-            <element signature="e#7018#7019#0" expanded="false" />
-            <element signature="e#7080#7081#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/cluster/ClusterConnectionProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="93" column="9" lean-forward="false" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8/src.zip!/java/lang/Iterable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/Json/JsonGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-          <folding />
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/cluster/PooledClusterConnectionProvider.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/immutable/StringLike.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="359" column="59" lean-forward="false" selection-start-line="359" selection-start-column="59" selection-end-line="359" selection-end-column="59" />
+        <state relative-caret-position="178">
+          <caret line="271" column="6" lean-forward="false" selection-start-line="271" selection-start-column="6" selection-end-line="271" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/log4j2test/Log4j2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/rddapi/RDDDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="272" column="27" lean-forward="false" selection-start-line="272" selection-start-column="27" selection-end-line="272" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/OffsetUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2717">
+          <caret line="150" column="25" lean-forward="false" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="25" />
           <folding>
-            <element signature="e#13699#13700#0" expanded="false" />
-            <element signature="e#13774#13775#0" expanded="false" />
+            <element signature="e#15#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/api/StatefulConnection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/JedisClusterPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="115">
+          <caret line="50" column="61" lean-forward="false" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/RedisChannelHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2-sources.jar!/org/apache/spark/SparkConf.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="222" column="30" lean-forward="false" selection-start-line="222" selection-start-column="30" selection-end-line="222" selection-end-column="30" />
-          <folding>
-            <element signature="e#5985#5986#0" expanded="false" />
-            <element signature="e#6035#6036#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="103">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/RedisChannelWriter.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.9/jackson-databind-2.7.9-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="248">
+          <caret line="696" column="24" lean-forward="false" selection-start-line="696" selection-start-column="24" selection-end-line="696" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/biz/paluch/redis/lettuce/4.2.2.Final/lettuce-4.2.2.Final-sources.jar!/com/lambdaworks/redis/protocol/CommandHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2-sources.jar!/org/apache/spark/rdd/RDDOperationScope.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3249">
-          <caret line="444" column="16" lean-forward="false" selection-start-line="444" selection-start-column="16" selection-end-line="444" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="59">
+          <caret line="81" column="52" lean-forward="false" selection-start-line="81" selection-start-column="52" selection-end-line="81" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5-sources.jar!/com/fasterxml/jackson/module/scala/DefaultScalaModule.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.7.9/jackson-module-jaxb-annotations-2.7.9.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1404">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5-sources.jar!/com/fasterxml/jackson/module/scala/JacksonModule.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="464" column="56" lean-forward="true" selection-start-line="464" selection-start-column="56" selection-end-line="464" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="26" />
+        <state relative-caret-position="152">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/redis/redisson/TestRedisson.java">
+    <entry file="file://$PROJECT_DIR$/src/config/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kafka/ProducerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/zk/KafkaZooOffset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/InitUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sparkstreaming/Demo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#24#74#0" expanded="true" />
+            <element signature="e#1243#1314#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ConfigTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1440,7 +1604,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.10.6</last-edited>
+          <last-edited>scala-sdk-2.11.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1477,11 +1641,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.38850576" />
               </list>
             </option>
           </splitter-proportions>

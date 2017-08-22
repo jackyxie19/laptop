@@ -5,8 +5,8 @@
   <version>1.0-SNAPSHOT</version>
   <inceptionYear>2008</inceptionYear>
   <properties>
-    <scala.version>2.11.8</scala.version>
-    <spark.version>2.0.1</spark.version>
+    <scala.version>2.11.11</scala.version>
+    <spark.version>2.0.2</spark.version>
   </properties>
 
   <repositories>
@@ -35,7 +35,7 @@
     <dependency>
       <groupId>biz.paluch.redis</groupId>
       <artifactId>lettuce</artifactId>
-      <version>4.2.2.Final</version>
+      <version>3.5.0.Final</version>
     </dependency>
 
     <dependency>
@@ -100,14 +100,12 @@
     <dependency>
       <groupId>org.apache.zookeeper</groupId>
       <artifactId>zookeeper</artifactId>
-      <version>3.4.6</version>
-      <type>pom</type>
+      <version>3.4.10</version>
     </dependency>
     <dependency>
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-core_2.11</artifactId>
       <version>${spark.version}</version>
-      <scope>provided</scope>
     </dependency>
 
     <dependency>
@@ -124,7 +122,6 @@
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-yarn_2.11</artifactId>
       <version>${spark.version}</version>
-      <scope>provided</scope>
     </dependency>
 
     <dependency>
@@ -151,6 +148,15 @@
    <!-- <testSourceDirectory>src/test/scala</testSourceDirectory>-->
     <plugins>
       <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>2.3.2</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+      <plugin>
         <groupId>org.scala-tools</groupId>
         <artifactId>maven-scala-plugin</artifactId>
         <executions>
@@ -164,7 +170,7 @@
         <configuration>
           <scalaVersion>${scala.version}</scalaVersion>
           <args>
-            <arg>-target:jvm-1.5</arg>
+            <arg>-target:jvm-1.8</arg>
           </args>
         </configuration>
       </plugin>

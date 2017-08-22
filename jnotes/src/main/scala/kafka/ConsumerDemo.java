@@ -2,6 +2,8 @@ package kafka;
 
 
 
+import com.typesafe.config.Config;
+import com.typesafe.config.ConfigFactory;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
@@ -15,15 +17,16 @@ import java.util.*;
  */
 public class ConsumerDemo {
     public static void main(String args[]){
+        Config conf = ConfigFactory.load();
         Properties props = new Properties();
-        props.put("bootstrap.servers", "localhost:9092");
+        props.put("bootstrap.servers", conf.getString("KAFKA_PUBLIC.BROKERS"));
         props.put("group.id", "test");
         props.put("enable.auto.commit", "false");
         props.put("auto.commit.interval.ms", "1000");
         props.put("session.timeout.ms", "30000");
         props.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
         props.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
-        KafkaConsumer<String, String> consumer = new KafkaConsumer(props);
+        KafkaConsumer<String, String> consumer = new KafkaConsumer<>(props);
         subscribeOne(consumer);
         subscribeTwo(consumer);
         assignTwo(consumer);
@@ -31,12 +34,13 @@ public class ConsumerDemo {
     }
 
     private static void assignOne(KafkaConsumer<String, String> consumer) {
-        String topic = "foo";
+        Config conf = ConfigFactory.load();
+        String topic = conf.getString("KAFKA_TOPIC.MONDAY");
         TopicPartition partition0 = new TopicPartition(topic, 0);
         TopicPartition partition1 = new TopicPartition(topic, 1);
         consumer.assign(Arrays.asList(partition0, partition1));
         final int minBatchSize = 200;
-        List<ConsumerRecord<String, String>> buffer = new ArrayList();
+        List<ConsumerRecord<String, String>> buffer = new ArrayList<>();
         while (true) {
             ConsumerRecords<String, String> records = consumer.poll(100);
             for (ConsumerRecord<String, String> record : records) {
@@ -51,7 +55,8 @@ public class ConsumerDemo {
     }
 
     private static void assignTwo(KafkaConsumer<String, String> consumer) {
-        String topic = "foo";
+        Config conf = ConfigFactory.load();
+        String topic = conf.getString("KAFKA_TOPIC.MONDAY");
         TopicPartition partition0 = new TopicPartition(topic, 0);
         TopicPartition partition1 = new TopicPartition(topic, 1);
         consumer.assign(Arrays.asList(partition0, partition1));
@@ -96,7 +101,7 @@ public class ConsumerDemo {
     private static void subscribeOne(KafkaConsumer<String, String> consumer) {
         consumer.subscribe(Arrays.asList("foo", "bar"));
         final int minBatchSize = 200;
-        List<ConsumerRecord<String, String>> buffer = new ArrayList();
+        List<ConsumerRecord<String, String>> buffer = new ArrayList<>();
         while (true) {
             ConsumerRecords<String, String> records = consumer.poll(100);
             for (ConsumerRecord<String, String> record : records) {

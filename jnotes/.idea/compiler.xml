@@ -9,8 +9,8 @@
         <module name="jnotes" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jnotes" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="jnotes" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
